@@ -1,0 +1,29 @@
+Privacy Policy for Currencies AR
+
+Effective Date: [Date]
+
+Thank you for choosing Currencies AR! This Privacy Policy describes how our app collects and uses information when you use our service.
+
+Information Collection and Use
+
+Currencies AR does not collect any personal information or data from users. The app uses your device's camera solely for the purpose of scanning price tags and converting prices to another currency. No images or data from the camera are stored or transmitted from the app.
+
+Third-Party Services
+
+Currencies AR does not integrate with any third-party services or collect any data from external sources.
+
+Data Security
+
+We take data security seriously. As no data is collected or stored by the app, there is no risk of unauthorized access or disclosure of personal information.
+
+Children's Privacy
+
+Currencies AR is intended for general audiences and does not knowingly collect any personally identifiable information from children under the age of 13.
+
+Changes to This Privacy Policy
+
+We reserve the right to update our Privacy Policy from time to time. Any changes will be reflected in an updated policy on this page.
+
+Contact Us
+
+If you have any questions or concerns about our Privacy Policy, please contact us at [Your Contact Information].
